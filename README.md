@@ -6,3 +6,4 @@ The following ER diagram shows the structure of the UrbanCart database used for 
 
 ![ER Diagram](er_diagram.jpg)
 ![ER Diagram](er_diagram.jpeg.jpg)
+![ER Diagram](Images/er_diagram.jpg)
