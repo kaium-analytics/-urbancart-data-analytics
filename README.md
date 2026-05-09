@@ -6,6 +6,9 @@ The following ER diagram shows the structure of the UrbanCart database used for 
 
 ![ER Diagram](Images/er_diagram.jpg)
 ![image](Images/image1.png)
+git add .
+git commit -m "add image"
+git push origin main
 
 
 
