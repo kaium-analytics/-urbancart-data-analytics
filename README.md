@@ -10,4 +10,5 @@ The following ER diagram shows the structure of the UrbanCart database used for 
 Below are the slides included in the project:
 ![ER Diagram](Images/image1.jpg)
 ![ER Diagram](Images/image2.jpg)
+![ER Diagram](Images/image3.jpg)
 
