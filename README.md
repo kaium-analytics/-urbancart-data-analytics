@@ -22,4 +22,5 @@ Below are the slides included in the project:
 ![ER Diagram](Images/image12.jpg)
 ![ER Diagram](Images/image13.jpg)
 ![ER Diagram](Images/image14.jpg)
+![ER Diagram](Images/image15.jpg)
 
