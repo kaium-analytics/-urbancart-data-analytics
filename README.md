@@ -33,3 +33,4 @@ Below are the slides included in the project:
 ![ER Diagram](Images/image23.jpg)
 ![ER Diagram](Images/image24.jpg)
 ![ER Diagram](Images/image25.jpg)
+![ER Diagram](Images/image26.jpg)
